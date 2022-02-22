@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Groomi/static/css/main.ca562b3a.chunk.css",
+    "main.js": "/Groomi/static/js/main.adb527ac.chunk.js",
+    "main.js.map": "/Groomi/static/js/main.adb527ac.chunk.js.map",
+    "runtime~main.js": "/Groomi/static/js/runtime~main.7696b1aa.js",
+    "runtime~main.js.map": "/Groomi/static/js/runtime~main.7696b1aa.js.map",
+    "static/js/2.ad586e3a.chunk.js": "/Groomi/static/js/2.ad586e3a.chunk.js",
+    "static/js/2.ad586e3a.chunk.js.map": "/Groomi/static/js/2.ad586e3a.chunk.js.map",
+    "index.html": "/Groomi/index.html",
+    "precache-manifest.34b5b323b7cd895ea63932ed7ffc4a31.js": "/Groomi/precache-manifest.34b5b323b7cd895ea63932ed7ffc4a31.js",
+    "service-worker.js": "/Groomi/service-worker.js",
+    "static/css/main.ca562b3a.chunk.css.map": "/Groomi/static/css/main.ca562b3a.chunk.css.map"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Restorent01.github.io/static/css/main.ca562b3a.chunk.css",
+    "main.js": "/Restorent01.github.io/static/js/main.842b1cfd.chunk.js",
+    "main.js.map": "/Restorent01.github.io/static/js/main.842b1cfd.chunk.js.map",
+    "runtime-main.js": "/Restorent01.github.io/static/js/runtime-main.ad4bf0eb.js",
+    "runtime-main.js.map": "/Restorent01.github.io/static/js/runtime-main.ad4bf0eb.js.map",
+    "static/js/2.3a2c58e4.chunk.js": "/Restorent01.github.io/static/js/2.3a2c58e4.chunk.js",
+    "static/js/2.3a2c58e4.chunk.js.map": "/Restorent01.github.io/static/js/2.3a2c58e4.chunk.js.map",
+    "index.html": "/Restorent01.github.io/index.html",
+    "precache-manifest.dddf7a7634baacaaa4a449c2d16a3570.js": "/Restorent01.github.io/precache-manifest.dddf7a7634baacaaa4a449c2d16a3570.js",
+    "service-worker.js": "/Restorent01.github.io/service-worker.js",
+    "static/css/main.ca562b3a.chunk.css.map": "/Restorent01.github.io/static/css/main.ca562b3a.chunk.css.map",
+    "static/js/2.3a2c58e4.chunk.js.LICENSE.txt": "/Restorent01.github.io/static/js/2.3a2c58e4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ad4bf0eb.js",
+    "static/js/2.3a2c58e4.chunk.js",
+    "static/css/main.ca562b3a.chunk.css",
+    "static/js/main.842b1cfd.chunk.js"
+  ]
+}
